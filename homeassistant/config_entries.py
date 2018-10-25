@@ -150,6 +150,7 @@ FLOWS = [
     'simplisafe',
     'smhi',
     'sonos',
+    'shiftr',
     'tradfri',
     'unifi',
     'upnp',
